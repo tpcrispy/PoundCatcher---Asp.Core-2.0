@@ -1,0 +1,9 @@
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\bin\Debug\netcoreapp2.0\PoundCatcher.Data.deps.json
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\bin\Debug\netcoreapp2.0\PoundCatcher.Data.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.csprojResolveAssemblyReference.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.csproj.CoreCompileInputs.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.AssemblyInfoInputs.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.AssemblyInfo.cs
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\bin\Debug\netcoreapp2.0\PoundCatcher.Data.pdb
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher.Data\obj\Debug\netcoreapp2.0\PoundCatcher.Data.pdb

@@ -1,0 +1,16 @@
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.csprojResolveAssemblyReference.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.csproj.CoreCompileInputs.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.AssemblyInfoInputs.cache
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.AssemblyInfo.cs
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.deps.json
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.runtimeconfig.json
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.runtimeconfig.dev.json
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.pdb
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.Data.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.Data.pdb
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\obj\Debug\netcoreapp2.0\PoundCatcher.pdb
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.Service.dll
+c:\users\tom\source\repos\PoundCatcher\PoundCatcher\bin\Debug\netcoreapp2.0\PoundCatcher.Service.pdb
