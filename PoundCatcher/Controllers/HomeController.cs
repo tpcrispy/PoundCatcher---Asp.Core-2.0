@@ -5,26 +5,23 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PoundCatcher.Models;
+using PoundCatcher.Data;
+using PoundCatcher.Models.Dogs;
+using PoundCatcher.Models.DogViewModels;
 
 namespace PoundCatcher.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IDog _dogService;
+
+        public  HomeController(IDog dogService)
+        {
+            _dogService = dogService;
+        }
+
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult About()
-        {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
 
             return View();
         }

@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using PoundCatcher.Data;
 using PoundCatcher.Services;
 using PoundCatcher.Data.Models;
+using PoundCatcher.Service;
 
 namespace PoundCatcher
 {
@@ -31,6 +32,7 @@ namespace PoundCatcher
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
+            services.AddScoped<IDog, DogService>();
 
             services.AddMvc();
         }

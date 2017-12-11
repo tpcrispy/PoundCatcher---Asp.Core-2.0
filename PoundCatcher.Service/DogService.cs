@@ -1,5 +1,8 @@
 ﻿using PoundCatcher.Data;
 using System;
+using PoundCatcher.Data.Models;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 namespace PoundCatcher.Service
 {
@@ -11,5 +14,11 @@ namespace PoundCatcher.Service
         {
             _context = context;
         }
+
+        public IEnumerable<Dog> GetBasicDogs()
+        {
+            return _context.Dogs.Include(x => x.Owner);
+        }
+        
     }
 }

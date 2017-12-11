@@ -1,0 +1,39 @@
+﻿@model PoundCatcher.Models.DogViewModels.BasicDogList
+
+
+<div class="container">
+    <br /><br /><br /><br /><br />
+    <div class="panel panel-default">
+        <div class="panel-heading">Results:</div>
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Dogs Name</th>
+                        <th>Dogs Microchip</th>
+                        <th>Dogs Tag Color</th>
+                        <th>Dogs Owner</th>
+                        <th>View More Info:</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var dog in Model.BasicDogListView)
+            {
+                        <tr>
+                            <td>@dog.Name</td>
+                            <td>@dog.MicroChip</td>
+                            <td>@dog.TagColor</td>
+                            <td>@dog.OwnersName</td>
+                            <td>
+                                <a asp-controller="Dog" asp-action="Info" asp-route-id="@dog.Id">More Info</a>
+                            </td>
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

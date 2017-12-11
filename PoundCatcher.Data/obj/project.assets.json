@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj",
+      "projectUniqueName": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj",
       "projectName": "PoundCatcher.Data",
-      "projectPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj",
+      "projectPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj",
       "packagesPath": "C:\\Users\\TOM\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\obj\\",
+      "outputPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

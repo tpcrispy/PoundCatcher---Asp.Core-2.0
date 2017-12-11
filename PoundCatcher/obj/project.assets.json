@@ -13164,11 +13164,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher\\PoundCatcher.csproj",
+      "projectUniqueName": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher\\PoundCatcher.csproj",
       "projectName": "PoundCatcher",
-      "projectPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher\\PoundCatcher.csproj",
+      "projectPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher\\PoundCatcher.csproj",
       "packagesPath": "C:\\Users\\TOM\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher\\obj\\",
+      "outputPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13188,11 +13188,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Service\\PoundCatcher.Service.csproj": {
-              "projectPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Service\\PoundCatcher.Service.csproj"
+            "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Service\\PoundCatcher.Service.csproj": {
+              "projectPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Service\\PoundCatcher.Service.csproj"
             },
-            "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj": {
-              "projectPath": "c:\\users\\tom\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj"
+            "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj": {
+              "projectPath": "C:\\Users\\TOM\\source\\repos\\PoundCatcher\\PoundCatcher.Data\\PoundCatcher.Data.csproj"
             }
           }
         }
